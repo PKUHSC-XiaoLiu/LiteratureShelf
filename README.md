@@ -112,8 +112,8 @@ For example, a paper may simultaneously carry the tags `ADRN/MES`, `Epigenetic r
 A classification rule consists of a tag and one or more title keywords:
 
 ```text
-Tag: ADRN/MES
-Keywords: adrenergic, mesenchymal, noradrenergic
+Tag: EMT
+Keywords: epithelial，mesenchymal
 ```
 
 If a keyword appears in a paper title, the corresponding tag is shown as a suggestion. This process is mechanical keyword matching rather than semantic interpretation.
@@ -133,8 +133,8 @@ Multiple search terms must all be present somewhere in the indexed fields. Use q
 Examples:
 
 ```text
-SP100 PML
-MES ALK resistance
+metastasis
+resistance
 "single-cell" plasticity
 ```
 
